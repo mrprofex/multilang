@@ -12,7 +12,7 @@ public class add {
         int b = sc.nextInt();
         System.out.print("Please enter you 3rd number:");
         int bc = sc.nextInt();
-        int c = a + b + bc ;  // data amake ithee doubt acche 
+        int c = a + b + bc ;  // fix kori dili thik acche aekhon
         //hii i am trisha 
         
         //dfdfdfdfd
