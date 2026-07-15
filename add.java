@@ -10,7 +10,10 @@ public class add {
         int a = sc.nextInt();
         System.out.print("Please enter you 2nd number:");
         int b = sc.nextInt();
-        int c = a + b ;
+        System.out.print("Please enter you 3rd number:");
+        int bc = sc.nextInt();
+        int c = a + b + bc ;
+
         System.out.println("the addition of a + b is :" + c);
     }
 
