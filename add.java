@@ -13,6 +13,7 @@ public class add {
         System.out.print("Please enter you 3rd number:");
         int bc = sc.nextInt();
         int c = a + b + bc ;
+        //hii i am trisha 
 
         System.out.println("the addition of a + b is :" + c);
     }
