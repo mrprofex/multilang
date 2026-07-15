@@ -14,7 +14,7 @@ public class add {
         int bc = sc.nextInt();
         int c = a + b + bc ;
         //hii i am trisha 
-
+        // i ma in call 9 
         System.out.println("the addition of a + b is :" + c);
     }
 
