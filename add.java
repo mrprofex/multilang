@@ -15,6 +15,16 @@ public class add {
         int c = a + b + bc ;
         //hii i am trisha 
         // i ma in call 9 
+        //dfdfdfdfd
+        //difyoidfdjfdf
+        //odfijdfjdf
+        //fdyfidhifjdf
+        //aefdf
+        //fidjfjdjfd
+        //
+        //
+
+        //
         System.out.println("the addition of a + b is :" + c);
     }
 
